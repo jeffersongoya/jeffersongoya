@@ -1,10 +1,12 @@
-Hello World 👋 <br>My name is Jefferson Augusto Goya
+Hello World 👋 <br>My name is Jefferson Augusto Goya 🐱‍👤
 =======================================
 
-Full-Stack Developer
+Full-Stack Developer 💻📱☁🖖
 --------------------
 
-I've been working with software and website development for a long time. <br>I am completely passionate about what I do, and I am always looking to expand my knowledge and keep up with new technological developments. <br>I currently work as a full-stack and I confess that I have a passion for participating in the whole process of building something.
+I have extensive experience in website programming and development.<br>
+I always seek to learn new things and improve my knowledge about new technologies and programming languages.<br>
+I currently work as a full-stack and I love what I do and I'm passionate about participating in the entire construction process.<br>
 
 *   🌍  I'm based in Brasil
 *   ✉️  You can contact me at [jefferson.goya@hotmail.com](mailto:jefferson.goya@hotmail.com) <p align="left">
